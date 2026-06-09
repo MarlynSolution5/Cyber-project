@@ -1,0 +1,6 @@
+{
+  "name": "Binary Analysis Workspace",
+  "description": "A professional-grade binary analysis, disassembly, and reverse engineering workbench for static code flow visualization, pseudocode decompilation, and control flow optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
